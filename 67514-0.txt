@@ -14,6 +14,7 @@ Title: The House of the Arrow
 Author: A. E. W. Mason
 
 Release Date: February 26, 2022 [eBook #67514]
+[Last Updated: March 13, 2022]
 
 Language: English
 
@@ -33,7 +34,6 @@ Produced by: Al Haines
   _By_
 
   A. E. W. MASON
-
 
 
   _New York
@@ -112,6 +112,7 @@ Produced by: Al Haines
 
 
 THE HOUSE OF THE ARROW
+
 
 
 
@@ -2761,7 +2762,7 @@ into the room.
 
 
 
-CHAPTER SEVEN: _Exit Woberski_
+CHAPTER SEVEN: _Exit Waberski_
 
 Jim Frobisher neither saw nor heard any more of Hanaud that day.  He
 fetched his luggage away from the hotel and spent the evening with
@@ -3207,7 +3208,7 @@ not forget them when the moment comes for the extenuating pleas.  No,
 indeed," and he flung his arm out nobly.  "I myself will be the first
 to urge them to the judge of the Assizes when the verdict is given."
 
-Betty Harlowe leaned back once more indifferent From an arm-chair
+Betty Harlowe leaned back once more indifferent. From an arm-chair
 near the door, a little gurgle of laughter broke from the lips of Ann
 Upcott.  Even Hanaud smiled.
 
@@ -6044,7 +6045,7 @@ girl like Betty should ever have had to read them.
     Hanaud the detective from Paris is coming to look after you with
     his handcuffs in his pocket.  You'll look pretty in handcuffs,
     won't you, Betty?  It's your white neck we want!  Three cheers
-    for Woberski?  The Scourge._"
+    for Waberski?  The Scourge._"
 
 
 Girardot stared at the brutal words and settled his glasses on his
@@ -6766,10 +6767,10 @@ But he had his problem reduced at last to these terms:
   that she has nothing to do
   with it.
 
-  (iii) Francine Rollard.  She         She was frightened of the
-  was certainly frightened this        police as a class, rather than of
-  afternoon.  The necklace would       being accused of a crime.  She
-  be a temptation.                     acted her part in the reconstruction
+  (iii) Francine Rollard.  She         She was frightened of the police
+  was certainly frightened this        as a class, rather than of being
+  afternoon.  The necklace would       accused of a crime.  She acted
+  be a temptation.                     her part in the reconstruction
                                        scene without breaking
   Was it she who bent over Ann         down.  If she were concerned, it
   Upcott in the darkness?              could only be for the reason
@@ -8481,7 +8482,7 @@ not understand it, he had no clue to what it was that Hanaud feared,
 but sitting in that brightly-lit office in the silent building, he
 was conscious of evil presences thronging about the pair of them,
 presences grotesque and malevolent such as some old craftsman of
-Dijon might have carved on the pillars of a cathedral He, too,
+Dijon might have carved on the pillars of a cathedral. He, too,
 shivered.
 
 "Let us see, now!" said Hanaud.
@@ -8536,7 +8537,6 @@ already written out.  Thus:
     (5) What was the exact message telephoned from Paris to the
     Prefecture and hidden away in an envelope marked by Hanaud:
     "Address"?
-
 
 
     (6) When and where and why was the white tablet picked up, and
@@ -11997,6 +11997,7 @@ But already he was gone.
 
 
 
+
 THE END
 
 
@@ -12330,7 +12331,8 @@ methods and addresses. Donations are accepted in a number of other
 ways including checks, online payments and credit card donations. To
 donate, please visit: www.gutenberg.org/donate
 
-Section 5. General Information About Project Gutenberg-tm electronic works
+Section 5. General Information About Project Gutenberg-tm electronic
+works
 
 Professor Michael S. Hart was the originator of the Project
 Gutenberg-tm concept of a library of electronic works that could be
